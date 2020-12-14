@@ -2,7 +2,9 @@
 
 Py Finance es un aplicación desarrolada en Python y soportada por Streamlit, la cual nos permite convertir scripts de datos en aplicaciones Web'
 PyFinance nos ofrece información de empresas que cotizan en el mercado en tiempo real de una forma rapida y sencilla,
-Podemos consultar la información más relevante de la empresa y sus cotizaciones históricas, visualizar sus gráficos y generar indicadores, consultar estadísticas y leer noticias del momento. Extraer, procesar, visualizar y analizar información financiera'
+Podemos consultar la información más relevante de la empresa y sus cotizaciones históricas, visualizar sus gráficos y generar indicadores, consultar estadísticas y leer noticias del momento. Extraer, procesar, visualizar y analizar información financiera
+
+Por favor, entra al siguiente link para usar la aplicación https://share.streamlit.io/iserranoz/pyfinance/main/app.py
 
 
 ### Estructura de la aplicación
